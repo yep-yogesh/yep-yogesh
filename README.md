@@ -1,16 +1,12 @@
-## Hi there 👋
-
-<!--
-**yep-yogesh/yep-yogesh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+```swift
+Yogesh := Human{ 
+    Name:    "Yogeshwaran Manivannan", 
+    Title:   "CS Undergrad",
+    University: "Vel’s Institute of Science, Technology and Advanced Studies",
+    Job:     "Frontend Engineer", 
+    Hobbies: []str{"Movies", "Music", "UI design"},  
+    Plan:   "To build products that fuse design, AI, and real-time systems into powerful, delightful tech.", 
+    Website: "yogeshwaran-manivannan.netlify.app", 
+    SideProject: "guessync.netlify.app", 
+}
+```
